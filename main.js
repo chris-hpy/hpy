@@ -1,3 +1,5 @@
+<script>
+
 <!-- matter-js - This is the matter-js library source file which is what makes everything work. -->
 <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/matter-js/0.10.0/matter.js"></script>
 
@@ -86,3 +88,6 @@
     button.addEventListener("click", handleClick);
 
 </script>
+
+	</script>
+
